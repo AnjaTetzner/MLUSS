@@ -1,0 +1,11 @@
+Model;parameters;optimal MAE;Average MAE
+LinearRegression;;-270,7462108;275,6753074
+Ridge;'alpha': 0,0001;-270,7471786;272,0303854
+Lasso;'alpha': 0,0001;-270,7464309;275,1200484
+ElasticNet;"'l1_ratio': 0,7368421052631579; 'alpha': 0,0001";-270,8434686;272,2760605
+RandomForest;"'n_estimators': 75; 'min_samples_split': 2; 'min_samples_leaf': 2; 'max_features': None; 'max_depth': 13";-95,77328756;97,19897379
+GradientBoosting;"'n_estimators': 175; 'min_samples_split': 8; 'min_samples_leaf': 7; 'max_depth': 4; 'learning_rate': 0,05455594781168517";-96,66595582;93,1811116
+SVR (linear);"'gamma': 'auto'; 'epsilon': 6,158482110660261; 'degree': 3; 'C': 24,420530945486497";-288,8790408;289,4193885
+KNeighborsRegressor;"'weights': 'uniform'; 'p': 1; 'n_neighbors': 8";-127,7946889;123,4375027
+MLPRegressor;"'learning_rate_init': 0,00042813323987193956; 'hidden_layer_sizes': (50; 50); 'alpha': 0,009102981779915217; 'activation': 'relu'";-170,1640337;176,4009622
+DecisionTreeRegressor;"'min_samples_split': 9; 'min_samples_leaf': 13; 'max_depth': 14;";-110,06712;111,5818389

@@ -1,0 +1,50 @@
+layer 32,Gutschweiﬂung,RMSE,128.8917,129.8449,19.1840
+layer 32,Leitungsversatz,RMSE,119.9408,111.8996,29.4726
+layer 32,Sontrodeneins‰tze,RMSE,134.0046,130.9629,26.4462
+layer 32,Terminalversatz,RMSE,140.7723,111.5928,75.7652
+layer 32,÷l auf Terminal,RMSE,355.9342,361.3128,141.7114
+layer 32,Gutschweiﬂung,R≤,-0.4602,-0.4684,0.3812
+layer 32,Leitungsversatz,R≤,-0.0663,0.0120,0.4375
+layer 32,Sontrodeneins‰tze,R≤,-0.1862,-0.1581,0.1869
+layer 32,Terminalversatz,R≤,0.5392,0.7717,0.4967
+layer 32,÷l auf Terminal,R≤,-0.0710,-0.1064,0.5238
+layer 64,Gutschweiﬂung,RMSE,142.7534,141.7527,20.9768
+layer 64,Leitungsversatz,RMSE,124.5759,117.8863,28.6012
+layer 64,Sontrodeneins‰tze,RMSE,130.2673,125.4462,27.0517
+layer 64,Terminalversatz,RMSE,238.2246,243.4232,75.8114
+layer 64,÷l auf Terminal,RMSE,360.1878,402.6617,159.4831
+layer 64,Gutschweiﬂung,R≤,-0.7692,-0.6495,0.4559
+layer 64,Leitungsversatz,R≤,-0.3210,-0.2274,0.6846
+layer 64,Sontrodeneins‰tze,R≤,-0.2786,-0.2144,0.2485
+layer 64,Terminalversatz,R≤,0.0238,-0.0827,0.3646
+layer 64,÷l auf Terminal,R≤,-0.0824,-0.0793,1.1423
+layer 128,Gutschweiﬂung,RMSE,161.2937,169.1265,26.9734
+layer 128,Leitungsversatz,RMSE,136.7370,129.5878,36.3253
+layer 128,Sontrodeneins‰tze,RMSE,144.1394,147.6780,23.0806
+layer 128,Terminalversatz,RMSE,257.2057,247.0643,55.5172
+layer 128,÷l auf Terminal,RMSE,239.8915,185.1084,141.9122
+layer 128,Gutschweiﬂung,R≤,-1.3305,-1.2308,0.6166
+layer 128,Leitungsversatz,R≤,-0.7053,-0.6061,0.7936
+layer 128,Sontrodeneins‰tze,R≤,-0.4271,-0.3409,0.3459
+layer 128,Terminalversatz,R≤,-0.1704,-0.1314,0.1656
+layer 128,÷l auf Terminal,R≤,0.5109,0.8161,0.4863
+"layer 32,32",Gutschweiﬂung,RMSE,178.9030,182.8948,37.2538
+"layer 32,32",Leitungsversatz,RMSE,162.2398,150.8723,43.1378
+"layer 32,32",Sontrodeneins‰tze,RMSE,172.5797,177.3559,35.1058
+"layer 32,32",Terminalversatz,RMSE,267.2709,268.2650,51.3968
+"layer 32,32",÷l auf Terminal,RMSE,318.1369,345.6295,173.8282
+"layer 32,32",Gutschweiﬂung,R≤,-2.0465,-1.7898,1.4613
+"layer 32,32",Leitungsversatz,R≤,-0.9678,-0.7448,0.8723
+"layer 32,32",Sontrodeneins‰tze,R≤,-0.9900,-0.9194,0.6767
+"layer 32,32",Terminalversatz,R≤,-0.2650,-0.2489,0.2529
+"layer 32,32",÷l auf Terminal,R≤,0.0165,-0.0632,1.4652
+"layer 64,64",Gutschweiﬂung,RMSE,262.9961,265.8660,61.5616
+"layer 64,64",Leitungsversatz,RMSE,255.3445,246.6905,52.4790
+"layer 64,64",Sontrodeneins‰tze,RMSE,267.6262,265.7511,50.2487
+"layer 64,64",Terminalversatz,RMSE,338.6793,342.1870,67.1927
+"layer 64,64",÷l auf Terminal,RMSE,269.4870,187.3290,184.9411
+"layer 64,64",Gutschweiﬂung,R≤,-5.7439,-5.2313,2.9832
+"layer 64,64",Leitungsversatz,R≤,-4.1029,-3.7381,2.2915
+"layer 64,64",Sontrodeneins‰tze,R≤,-4.2847,-4.3007,2.0986
+"layer 64,64",Terminalversatz,R≤,-0.9183,-0.7824,0.5079
+"layer 64,64",÷l auf Terminal,R≤,0.2467,0.4371,0.7111

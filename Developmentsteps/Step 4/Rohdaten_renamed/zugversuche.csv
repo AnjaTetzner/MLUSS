@@ -1,0 +1,601 @@
+key;nr;label;label_name;festigkeit
+ok_1569;1569;0;OK-Schweißung;2600,0
+ok_1570;1570;0;OK-Schweißung;2750,0
+ok_1571;1571;0;OK-Schweißung;2770,0
+ok_1572;1572;0;OK-Schweißung;2660,0
+ok_1573;1573;0;OK-Schweißung;2810,0
+ok_1574;1574;0;OK-Schweißung;2850,0
+ok_1575;1575;0;OK-Schweißung;2900,0
+ok_1576;1576;0;OK-Schweißung;2750,0
+ok_1577;1577;0;OK-Schweißung;2750,0
+ok_1578;1578;0;OK-Schweißung;2770,0
+ok_1579;1579;0;OK-Schweißung;2590,0
+ok_1580;1580;0;OK-Schweißung;2760,0
+ok_1581;1581;0;OK-Schweißung;2700,0
+ok_1582;1582;0;OK-Schweißung;2670,0
+ok_1583;1583;0;OK-Schweißung;2620,0
+ok_1584;1584;0;OK-Schweißung;2660,0
+ok_1585;1585;0;OK-Schweißung;2760,0
+ok_1586;1586;0;OK-Schweißung;2710,0
+ok_1587;1587;0;OK-Schweißung;2820,0
+ok_1588;1588;0;OK-Schweißung;2830,0
+ok_1589;1589;0;OK-Schweißung;2750,0
+ok_1590;1590;0;OK-Schweißung;2840,0
+ok_1591;1591;0;OK-Schweißung;2880,0
+ok_1592;1592;0;OK-Schweißung;2790,0
+ok_1593;1593;0;OK-Schweißung;2850,0
+ok_1594;1594;0;OK-Schweißung;2980,0
+ok_1595;1595;0;OK-Schweißung;2940,0
+ok_1596;1596;0;OK-Schweißung;2940,0
+ok_1597;1597;0;OK-Schweißung;2940,0
+ok_1598;1598;0;OK-Schweißung;2850,0
+ok_1599;1599;0;OK-Schweißung;2740,0
+ok_1600;1600;0;OK-Schweißung;2960,0
+ok_1601;1601;0;OK-Schweißung;2920,0
+ok_1602;1602;0;OK-Schweißung;2730,0
+ok_1603;1603;0;OK-Schweißung;2560,0
+ok_1604;1604;0;OK-Schweißung;2940,0
+ok_1605;1605;0;OK-Schweißung;2890,0
+ok_1606;1606;0;OK-Schweißung;2860,0
+ok_1607;1607;0;OK-Schweißung;3010,0
+ok_1608;1608;0;OK-Schweißung;2870,0
+ok_1609;1609;0;OK-Schweißung;2750,0
+ok_1610;1610;0;OK-Schweißung;2900,0
+ok_1611;1611;0;OK-Schweißung;2630,0
+ok_1612;1612;0;OK-Schweißung;3070,0
+ok_1613;1613;0;OK-Schweißung;2840,0
+ok_1614;1614;0;OK-Schweißung;2990,0
+ok_1615;1615;0;OK-Schweißung;2880,0
+ok_1616;1616;0;OK-Schweißung;2870,0
+ok_1617;1617;0;OK-Schweißung;2820,0
+ok_1618;1618;0;OK-Schweißung;2930,0
+ok_1619;1619;0;OK-Schweißung;2820,0
+ok_1620;1620;0;OK-Schweißung;2930,0
+ok_1621;1621;0;OK-Schweißung;2920,0
+ok_1622;1622;0;OK-Schweißung;2690,0
+ok_1623;1623;0;OK-Schweißung;2860,0
+ok_1624;1624;0;OK-Schweißung;2840,0
+ok_1625;1625;0;OK-Schweißung;3040,0
+ok_1626;1626;0;OK-Schweißung;2870,0
+ok_1627;1627;0;OK-Schweißung;3040,0
+ok_1628;1628;0;OK-Schweißung;2800,0
+ok_1629;1629;0;OK-Schweißung;2600,0
+ok_1630;1630;0;OK-Schweißung;2780,0
+ok_1631;1631;0;OK-Schweißung;2900,0
+ok_1632;1632;0;OK-Schweißung;2770,0
+ok_1633;1633;0;OK-Schweißung;2890,0
+ok_1634;1634;0;OK-Schweißung;2970,0
+ok_1635;1635;0;OK-Schweißung;2730,0
+ok_1636;1636;0;OK-Schweißung;2960,0
+ok_1637;1637;0;OK-Schweißung;2850,0
+ok_1638;1638;0;OK-Schweißung;2990,0
+ok_1639;1639;0;OK-Schweißung;2810,0
+ok_1640;1640;0;OK-Schweißung;2730,0
+ok_1641;1641;0;OK-Schweißung;2800,0
+ok_1642;1642;0;OK-Schweißung;2810,0
+ok_1643;1643;0;OK-Schweißung;2760,0
+ok_1644;1644;0;OK-Schweißung;2850,0
+ok_1645;1645;0;OK-Schweißung;2750,0
+ok_1646;1646;0;OK-Schweißung;2720,0
+ok_1647;1647;0;OK-Schweißung;2820,0
+ok_1648;1648;0;OK-Schweißung;2860,0
+ok_1649;1649;0;OK-Schweißung;2830,0
+ok_1650;1650;0;OK-Schweißung;2790,0
+ok_1651;1651;0;OK-Schweißung;2850,0
+ok_1652;1652;0;OK-Schweißung;2750,0
+ok_1653;1653;0;OK-Schweißung;2880,0
+ok_1654;1654;0;OK-Schweißung;2710,0
+ok_1655;1655;0;OK-Schweißung;2850,0
+ok_1656;1656;0;OK-Schweißung;2720,0
+ok_1657;1657;0;OK-Schweißung;2650,0
+ok_1658;1658;0;OK-Schweißung;2790,0
+ok_1659;1659;0;OK-Schweißung;2860,0
+ok_1660;1660;0;OK-Schweißung;2910,0
+ok_1661;1661;0;OK-Schweißung;2830,0
+ok_1662;1662;0;OK-Schweißung;2830,0
+ok_1663;1663;0;OK-Schweißung;2810,0
+ok_1664;1664;0;OK-Schweißung;2830,0
+ok_1665;1665;0;OK-Schweißung;2840,0
+ok_1666;1666;0;OK-Schweißung;2920,0
+ok_1667;1667;0;OK-Schweißung;2990,0
+ok_1668;1668;0;OK-Schweißung;2840,0
+ok_1669;1669;0;OK-Schweißung;2690,0
+ok_1670;1670;0;OK-Schweißung;2990,0
+ok_1671;1671;0;OK-Schweißung;2770,0
+ok_1672;1672;0;OK-Schweißung;2950,0
+ok_1673;1673;0;OK-Schweißung;2870,0
+ok_1674;1674;0;OK-Schweißung;2760,0
+ok_1675;1675;0;OK-Schweißung;2910,0
+ok_1676;1676;0;OK-Schweißung;2950,0
+ok_1677;1677;0;OK-Schweißung;2980,0
+ok_1678;1678;0;OK-Schweißung;3050,0
+ok_1679;1679;0;OK-Schweißung;2790,0
+ok_1680;1680;0;OK-Schweißung;2700,0
+ok_1681;1681;0;OK-Schweißung;2730,0
+ok_1682;1682;0;OK-Schweißung;2820,0
+ok_1683;1683;0;OK-Schweißung;2690,0
+ok_1684;1684;0;OK-Schweißung;2850,0
+ok_1685;1685;0;OK-Schweißung;2820,0
+ok_1686;1686;0;OK-Schweißung;2870,0
+ok_1687;1687;0;OK-Schweißung;2780,0
+ok_1688;1688;0;OK-Schweißung;2890,0
+ok_1689;1689;0;OK-Schweißung;2570,0
+ok_1690;1690;0;OK-Schweißung;2720,0
+ok_1691;1691;0;OK-Schweißung;2770,0
+ok_1692;1692;0;OK-Schweißung;2820,0
+ok_1693;1693;0;OK-Schweißung;2700,0
+ok_1694;1694;0;OK-Schweißung;2810,0
+ok_1695;1695;0;OK-Schweißung;2700,0
+ok_1696;1696;0;OK-Schweißung;2770,0
+ok_1697;1697;0;OK-Schweißung;2780,0
+ok_1698;1698;0;OK-Schweißung;2730,0
+ok_1699;1699;0;OK-Schweißung;2630,0
+ok_1700;1700;0;OK-Schweißung;2850,0
+ok_1701;1701;0;OK-Schweißung;2860,0
+ok_1702;1702;0;OK-Schweißung;2900,0
+ok_1703;1703;0;OK-Schweißung;2690,0
+ok_1704;1704;0;OK-Schweißung;2830,0
+ok_1705;1705;0;OK-Schweißung;2910,0
+ok_1706;1706;0;OK-Schweißung;2920,0
+ok_1707;1707;0;OK-Schweißung;2900,0
+ok_1708;1708;0;OK-Schweißung;2950,0
+ok_1709;1709;0;OK-Schweißung;2840,0
+ok_1710;1710;0;OK-Schweißung;2960,0
+ok_1711;1711;0;OK-Schweißung;2900,0
+ok_1712;1712;0;OK-Schweißung;2700,0
+ok_1713;1713;0;OK-Schweißung;2900,0
+ok_1714;1714;0;OK-Schweißung;2750,0
+ok_1715;1715;0;OK-Schweißung;2880,0
+ok_1716;1716;0;OK-Schweißung;2800,0
+ok_1717;1717;0;OK-Schweißung;2850,0
+ok_1718;1718;0;OK-Schweißung;2640,0
+ok_1719;1719;0;OK-Schweißung;2790,0
+ok_1720;1720;0;OK-Schweißung;2870,0
+ok_1721;1721;0;OK-Schweißung;2750,0
+ok_1722;1722;0;OK-Schweißung;2880,0
+ok_1723;1723;0;OK-Schweißung;2820,0
+ok_1724;1724;0;OK-Schweißung;2960,0
+ok_1725;1725;0;OK-Schweißung;2850,0
+ok_1726;1726;0;OK-Schweißung;2920,0
+ok_1727;1727;0;OK-Schweißung;2610,0
+ok_1728;1728;0;OK-Schweißung;2990,0
+ok_1729;1729;0;OK-Schweißung;2710,0
+ok_1730;1730;0;OK-Schweißung;2900,0
+ok_1731;1731;0;OK-Schweißung;2830,0
+ok_1732;1732;0;OK-Schweißung;2880,0
+ok_1733;1733;0;OK-Schweißung;2680,0
+ok_1734;1734;0;OK-Schweißung;2930,0
+ok_1735;1735;0;OK-Schweißung;2870,0
+ok_1736;1736;0;OK-Schweißung;2850,0
+ok_1737;1737;0;OK-Schweißung;2850,0
+ok_1738;1738;0;OK-Schweißung;2940,0
+ok_1739;1739;0;OK-Schweißung;2880,0
+ok_1740;1740;0;OK-Schweißung;2990,0
+ok_1741;1741;0;OK-Schweißung;2950,0
+ok_1742;1742;0;OK-Schweißung;2950,0
+ok_1743;1743;0;OK-Schweißung;2960,0
+ok_1744;1744;0;OK-Schweißung;2960,0
+ok_1745;1745;0;OK-Schweißung;2850,0
+ok_1746;1746;0;OK-Schweißung;2950,0
+ok_1747;1747;0;OK-Schweißung;2900,0
+ok_1748;1748;0;OK-Schweißung;2950,0
+ok_1749;1749;0;OK-Schweißung;2610,0
+ok_1750;1750;0;OK-Schweißung;2860,0
+ok_1751;1751;0;OK-Schweißung;2820,0
+ok_1752;1752;0;OK-Schweißung;2870,0
+ok_1753;1753;0;OK-Schweißung;2800,0
+ok_1754;1754;0;OK-Schweißung;2890,0
+ok_1755;1755;0;OK-Schweißung;3170,0
+ok_1756;1756;0;OK-Schweißung;3080,0
+ok_1757;1757;0;OK-Schweißung;2840,0
+ok_1758;1758;0;OK-Schweißung;2880,0
+ok_1759;1759;0;OK-Schweißung;3000,0
+ok_1760;1760;0;OK-Schweißung;2910,0
+ok_1761;1761;0;OK-Schweißung;2950,0
+ok_1762;1762;0;OK-Schweißung;2940,0
+ok_1763;1763;0;OK-Schweißung;2950,0
+ok_1764;1764;0;OK-Schweißung;2900,0
+ok_1765;1765;0;OK-Schweißung;2860,0
+ok_1766;1766;0;OK-Schweißung;2890,0
+ok_1767;1767;0;OK-Schweißung;3000,0
+ok_1768;1768;0;OK-Schweißung;3040,0
+near_ok_sonowechsel_2929;2929;1;NEAR-OK-Sonotrodenwechsel;2602,98168945313
+near_ok_sonowechsel_2930;2930;1;NEAR-OK-Sonotrodenwechsel;2426,89233398438
+near_ok_sonowechsel_2931;2931;1;NEAR-OK-Sonotrodenwechsel;2683,59594726563
+near_ok_sonowechsel_2932;2932;1;NEAR-OK-Sonotrodenwechsel;2718,18530273438
+near_ok_sonowechsel_2933;2933;1;NEAR-OK-Sonotrodenwechsel;2630,02001953125
+near_ok_sonowechsel_2934;2934;1;NEAR-OK-Sonotrodenwechsel;2685,89794921875
+near_ok_sonowechsel_2935;2935;1;NEAR-OK-Sonotrodenwechsel;2384,8740234375
+near_ok_sonowechsel_2936;2936;1;NEAR-OK-Sonotrodenwechsel;2785,16381835938
+near_ok_sonowechsel_2937;2937;1;NEAR-OK-Sonotrodenwechsel;2730,03540039063
+near_ok_sonowechsel_2938;2938;1;NEAR-OK-Sonotrodenwechsel;2777,96923828125
+near_ok_sonowechsel_2939;2939;1;NEAR-OK-Sonotrodenwechsel;2558,96459960938
+near_ok_sonowechsel_2940;2940;1;NEAR-OK-Sonotrodenwechsel;2263,55419921875
+near_ok_sonowechsel_2941;2941;1;NEAR-OK-Sonotrodenwechsel;2301,888671875
+near_ok_sonowechsel_2942;2942;1;NEAR-OK-Sonotrodenwechsel;2650,2392578125
+near_ok_sonowechsel_2943;2943;1;NEAR-OK-Sonotrodenwechsel;2214,44750976563
+near_ok_sonowechsel_2944;2944;1;NEAR-OK-Sonotrodenwechsel;2502,46728515625
+near_ok_sonowechsel_2945;2945;1;NEAR-OK-Sonotrodenwechsel;2615,43017578125
+near_ok_sonowechsel_2946;2946;1;NEAR-OK-Sonotrodenwechsel;2491,27319335938
+near_ok_sonowechsel_2947;2947;1;NEAR-OK-Sonotrodenwechsel;2508,52099609375
+near_ok_sonowechsel_2948;2948;1;NEAR-OK-Sonotrodenwechsel;2273,80224609375
+near_ok_sonowechsel_2949;2949;1;NEAR-OK-Sonotrodenwechsel;2641,56494140625
+near_ok_sonowechsel_2950;2950;1;NEAR-OK-Sonotrodenwechsel;2655,9013671875
+near_ok_sonowechsel_2951;2951;1;NEAR-OK-Sonotrodenwechsel;2641,23974609375
+near_ok_sonowechsel_2952;2952;1;NEAR-OK-Sonotrodenwechsel;2602,0673828125
+near_ok_sonowechsel_2953;2953;1;NEAR-OK-Sonotrodenwechsel;2315,57568359375
+near_ok_sonowechsel_2954;2954;1;NEAR-OK-Sonotrodenwechsel;2614,953125
+near_ok_sonowechsel_2955;2955;1;NEAR-OK-Sonotrodenwechsel;2784,39916992188
+near_ok_sonowechsel_2956;2956;1;NEAR-OK-Sonotrodenwechsel;2720,91357421875
+near_ok_sonowechsel_2957;2957;1;NEAR-OK-Sonotrodenwechsel;2759,01953125
+near_ok_sonowechsel_2958;2958;1;NEAR-OK-Sonotrodenwechsel;2647,5166015625
+near_ok_sonowechsel_2959;2959;1;NEAR-OK-Sonotrodenwechsel;2581,04931640625
+near_ok_sonowechsel_2960;2960;1;NEAR-OK-Sonotrodenwechsel;2622,9326171875
+near_ok_sonowechsel_2961;2961;1;NEAR-OK-Sonotrodenwechsel;2760,17797851563
+near_ok_sonowechsel_2962;2962;1;NEAR-OK-Sonotrodenwechsel;2858,22265625
+near_ok_sonowechsel_2963;2963;1;NEAR-OK-Sonotrodenwechsel;2682,5673828125
+near_ok_sonowechsel_2964;2964;1;NEAR-OK-Sonotrodenwechsel;2627,86474609375
+near_ok_sonowechsel_2965;2965;1;NEAR-OK-Sonotrodenwechsel;2621,033203125
+near_ok_sonowechsel_2966;2966;1;NEAR-OK-Sonotrodenwechsel;2637,41284179688
+near_ok_sonowechsel_2967;2967;1;NEAR-OK-Sonotrodenwechsel;2607,08178710938
+near_ok_sonowechsel_2968;2968;1;NEAR-OK-Sonotrodenwechsel;2844,2529296875
+near_ok_sonowechsel_2969;2969;1;NEAR-OK-Sonotrodenwechsel;2453,78247070313
+near_ok_sonowechsel_2970;2970;1;NEAR-OK-Sonotrodenwechsel;2622,75341796875
+near_ok_sonowechsel_2971;2971;1;NEAR-OK-Sonotrodenwechsel;2623,45532226563
+near_ok_sonowechsel_2972;2972;1;NEAR-OK-Sonotrodenwechsel;2661,98974609375
+near_ok_sonowechsel_2973;2973;1;NEAR-OK-Sonotrodenwechsel;2805,28515625
+near_ok_sonowechsel_2974;2974;1;NEAR-OK-Sonotrodenwechsel;2667,58520507813
+near_ok_sonowechsel_2975;2975;1;NEAR-OK-Sonotrodenwechsel;2469,9453125
+near_ok_sonowechsel_2976;2976;1;NEAR-OK-Sonotrodenwechsel;2485,16577148438
+near_ok_sonowechsel_2977;2977;1;NEAR-OK-Sonotrodenwechsel;2805,79052734375
+near_ok_sonowechsel_2978;2978;1;NEAR-OK-Sonotrodenwechsel;2317,21508789063
+near_ok_sonowechsel_2979;2979;1;NEAR-OK-Sonotrodenwechsel;2617,244140625
+near_ok_sonowechsel_2980;2980;1;NEAR-OK-Sonotrodenwechsel;2603,56201171875
+near_ok_sonowechsel_2981;2981;1;NEAR-OK-Sonotrodenwechsel;2672,74584960938
+near_ok_sonowechsel_2982;2982;1;NEAR-OK-Sonotrodenwechsel;2617,0390625
+near_ok_sonowechsel_2983;2983;1;NEAR-OK-Sonotrodenwechsel;2494,32202148438
+near_ok_sonowechsel_2984;2984;1;NEAR-OK-Sonotrodenwechsel;2670,83959960938
+near_ok_sonowechsel_2985;2985;1;NEAR-OK-Sonotrodenwechsel;2794,99291992188
+near_ok_sonowechsel_2986;2986;1;NEAR-OK-Sonotrodenwechsel;2722,7265625
+near_ok_sonowechsel_2987;2987;1;NEAR-OK-Sonotrodenwechsel;2506,806640625
+near_ok_sonowechsel_2988;2988;1;NEAR-OK-Sonotrodenwechsel;2768,966796875
+near_ok_sonowechsel_2989;2989;1;NEAR-OK-Sonotrodenwechsel;2687,95068359375
+near_ok_sonowechsel_2990;2990;1;NEAR-OK-Sonotrodenwechsel;2615,98217773438
+near_ok_sonowechsel_2991;2991;1;NEAR-OK-Sonotrodenwechsel;2679,0390625
+near_ok_sonowechsel_2992;2992;1;NEAR-OK-Sonotrodenwechsel;2599,17724609375
+near_ok_sonowechsel_2993;2993;1;NEAR-OK-Sonotrodenwechsel;2621,20263671875
+near_ok_sonowechsel_2994;2994;1;NEAR-OK-Sonotrodenwechsel;2671,11376953125
+near_ok_sonowechsel_2995;2995;1;NEAR-OK-Sonotrodenwechsel;2587,71435546875
+near_ok_sonowechsel_2996;2996;1;NEAR-OK-Sonotrodenwechsel;2809,43090820313
+near_ok_sonowechsel_2997;2997;1;NEAR-OK-Sonotrodenwechsel;2656,86987304688
+near_ok_sonowechsel_2998;2998;1;NEAR-OK-Sonotrodenwechsel;2649,29907226563
+near_ok_sonowechsel_2999;2999;1;NEAR-OK-Sonotrodenwechsel;2525,26708984375
+near_ok_sonowechsel_3000;3000;1;NEAR-OK-Sonotrodenwechsel;2531,2294921875
+near_ok_sonowechsel_3001;3001;1;NEAR-OK-Sonotrodenwechsel;2556,08032226563
+near_ok_sonowechsel_3002;3002;1;NEAR-OK-Sonotrodenwechsel;2684,099609375
+near_ok_sonowechsel_3003;3003;1;NEAR-OK-Sonotrodenwechsel;2553,19506835938
+near_ok_sonowechsel_3004;3004;1;NEAR-OK-Sonotrodenwechsel;2663,9794921875
+near_ok_sonowechsel_3005;3005;1;NEAR-OK-Sonotrodenwechsel;2702,67822265625
+near_ok_sonowechsel_3006;3006;1;NEAR-OK-Sonotrodenwechsel;2553,54272460938
+near_ok_sonowechsel_3007;3007;1;NEAR-OK-Sonotrodenwechsel;2597,03076171875
+near_ok_sonowechsel_3008;3008;1;NEAR-OK-Sonotrodenwechsel;2697,15258789063
+near_ok_sonowechsel_3009;3009;1;NEAR-OK-Sonotrodenwechsel;2574,7900390625
+near_ok_sonowechsel_3010;3010;1;NEAR-OK-Sonotrodenwechsel;2663,70336914063
+near_ok_sonowechsel_3011;3011;1;NEAR-OK-Sonotrodenwechsel;2528,36840820313
+near_ok_sonowechsel_3012;3012;1;NEAR-OK-Sonotrodenwechsel;2597,02807617188
+near_ok_sonowechsel_3013;3013;1;NEAR-OK-Sonotrodenwechsel;2717,73999023438
+near_ok_sonowechsel_3014;3014;1;NEAR-OK-Sonotrodenwechsel;2632,55102539063
+near_ok_sonowechsel_3015;3015;1;NEAR-OK-Sonotrodenwechsel;2565,61181640625
+near_ok_sonowechsel_3016;3016;1;NEAR-OK-Sonotrodenwechsel;2478,47875976563
+near_ok_sonowechsel_3017;3017;1;NEAR-OK-Sonotrodenwechsel;2587,90698242188
+near_ok_sonowechsel_3018;3018;1;NEAR-OK-Sonotrodenwechsel;2648,10131835938
+near_ok_sonowechsel_3019;3019;1;NEAR-OK-Sonotrodenwechsel;2517,18505859375
+near_ok_sonowechsel_3020;3020;1;NEAR-OK-Sonotrodenwechsel;2498,94067382813
+near_ok_sonowechsel_3021;3021;1;NEAR-OK-Sonotrodenwechsel;2616,70703125
+near_ok_sonowechsel_3022;3022;1;NEAR-OK-Sonotrodenwechsel;2577,65991210938
+near_ok_sonowechsel_3023;3023;1;NEAR-OK-Sonotrodenwechsel;2527,99560546875
+near_ok_sonowechsel_3024;3024;1;NEAR-OK-Sonotrodenwechsel;2616,23852539063
+near_ok_sonowechsel_3025;3025;1;NEAR-OK-Sonotrodenwechsel;2586,42041015625
+near_ok_sonowechsel_3026;3026;1;NEAR-OK-Sonotrodenwechsel;2579,53491210938
+near_ok_sonowechsel_3027;3027;1;NEAR-OK-Sonotrodenwechsel;2624,96508789063
+near_ok_sonowechsel_3028;3028;1;NEAR-OK-Sonotrodenwechsel;2615,45166015625
+fehler_oel_2008;2008;2;Öl auf Terminalversatz;193,0
+fehler_oel_2009;2009;2;Öl auf Terminalversatz;0,0
+fehler_oel_2010;2010;2;Öl auf Terminalversatz;0,0
+fehler_oel_2011;2011;2;Öl auf Terminalversatz;0,0
+fehler_oel_2012;2012;2;Öl auf Terminalversatz;553,0
+fehler_oel_2013;2013;2;Öl auf Terminalversatz;0,0
+fehler_oel_2014;2014;2;Öl auf Terminalversatz;799,0
+fehler_oel_2015;2015;2;Öl auf Terminalversatz;0,0
+fehler_oel_2016;2016;2;Öl auf Terminalversatz;362,0
+fehler_oel_2017;2017;2;Öl auf Terminalversatz;0,0
+fehler_oel_2018;2018;2;Öl auf Terminalversatz;0,0
+fehler_oel_2019;2019;2;Öl auf Terminalversatz;0,0
+fehler_oel_2020;2020;2;Öl auf Terminalversatz;0,0
+fehler_oel_2021;2021;2;Öl auf Terminalversatz;0,0
+fehler_oel_2022;2022;2;Öl auf Terminalversatz;0,0
+fehler_oel_2023;2023;2;Öl auf Terminalversatz;2070,0
+fehler_oel_2024;2024;2;Öl auf Terminalversatz;364,0
+fehler_oel_2025;2025;2;Öl auf Terminalversatz;0,0
+fehler_oel_2026;2026;2;Öl auf Terminalversatz;0,0
+fehler_oel_2027;2027;2;Öl auf Terminalversatz;0,0
+fehler_oel_2028;2028;2;Öl auf Terminalversatz;0,0
+fehler_oel_2029;2029;2;Öl auf Terminalversatz;485,0
+fehler_oel_2030;2030;2;Öl auf Terminalversatz;352,0
+fehler_oel_2031;2031;2;Öl auf Terminalversatz;126,0
+fehler_oel_2032;2032;2;Öl auf Terminalversatz;728,0
+fehler_oel_2033;2033;2;Öl auf Terminalversatz;0,0
+fehler_oel_2034;2034;2;Öl auf Terminalversatz;286,0
+fehler_oel_2035;2035;2;Öl auf Terminalversatz;585,0
+fehler_oel_2036;2036;2;Öl auf Terminalversatz;377,0
+fehler_oel_2037;2037;2;Öl auf Terminalversatz;0,0
+fehler_oel_2038;2038;2;Öl auf Terminalversatz;0,0
+fehler_oel_2039;2039;2;Öl auf Terminalversatz;0,0
+fehler_oel_2040;2040;2;Öl auf Terminalversatz;415,0
+fehler_oel_2041;2041;2;Öl auf Terminalversatz;0,0
+fehler_oel_2042;2042;2;Öl auf Terminalversatz;0,0
+fehler_oel_2043;2043;2;Öl auf Terminalversatz;0,0
+fehler_oel_2044;2044;2;Öl auf Terminalversatz;191,0
+fehler_oel_2045;2045;2;Öl auf Terminalversatz;0,0
+fehler_oel_2046;2046;2;Öl auf Terminalversatz;0,0
+fehler_oel_2047;2047;2;Öl auf Terminalversatz;0,0
+fehler_oel_2048;2048;2;Öl auf Terminalversatz;384,0
+fehler_oel_2049;2049;2;Öl auf Terminalversatz;892,0
+fehler_oel_2050;2050;2;Öl auf Terminalversatz;1180,0
+fehler_oel_2051;2051;2;Öl auf Terminalversatz;1060,0
+fehler_oel_2052;2052;2;Öl auf Terminalversatz;1400,0
+fehler_oel_2053;2053;2;Öl auf Terminalversatz;0,0
+fehler_oel_2054;2054;2;Öl auf Terminalversatz;0,0
+fehler_oel_2055;2055;2;Öl auf Terminalversatz;602,0
+fehler_oel_2056;2056;2;Öl auf Terminalversatz;116,0
+fehler_oel_2057;2057;2;Öl auf Terminalversatz;1930,0
+fehler_oel_2058;2058;2;Öl auf Terminalversatz;0,0
+fehler_oel_2059;2059;2;Öl auf Terminalversatz;97,8
+fehler_oel_2060;2060;2;Öl auf Terminalversatz;0,0
+fehler_oel_2061;2061;2;Öl auf Terminalversatz;0,0
+fehler_oel_2062;2062;2;Öl auf Terminalversatz;502,0
+fehler_oel_2063;2063;2;Öl auf Terminalversatz;0,0
+fehler_oel_2064;2064;2;Öl auf Terminalversatz;0,0
+fehler_oel_2065;2065;2;Öl auf Terminalversatz;194,0
+fehler_oel_2066;2066;2;Öl auf Terminalversatz;0,0
+fehler_oel_2067;2067;2;Öl auf Terminalversatz;0,0
+fehler_oel_2068;2068;2;Öl auf Terminalversatz;499,0
+fehler_oel_2069;2069;2;Öl auf Terminalversatz;0,0
+fehler_oel_2070;2070;2;Öl auf Terminalversatz;457,0
+fehler_oel_2071;2071;2;Öl auf Terminalversatz;1090,0
+fehler_oel_2072;2072;2;Öl auf Terminalversatz;365,0
+fehler_oel_2073;2073;2;Öl auf Terminalversatz;0,0
+fehler_oel_2074;2074;2;Öl auf Terminalversatz;378,0
+fehler_oel_2075;2075;2;Öl auf Terminalversatz;1120,0
+fehler_oel_2076;2076;2;Öl auf Terminalversatz;0,0
+fehler_oel_2077;2077;2;Öl auf Terminalversatz;0,0
+fehler_oel_2078;2078;2;Öl auf Terminalversatz;125,0
+fehler_oel_2079;2079;2;Öl auf Terminalversatz;0,0
+fehler_oel_2080;2080;2;Öl auf Terminalversatz;0,0
+fehler_oel_2081;2081;2;Öl auf Terminalversatz;0,0
+fehler_oel_2082;2082;2;Öl auf Terminalversatz;0,0
+fehler_oel_2083;2083;2;Öl auf Terminalversatz;0,0
+fehler_oel_2084;2084;2;Öl auf Terminalversatz;0,0
+fehler_oel_2085;2085;2;Öl auf Terminalversatz;0,0
+fehler_oel_2086;2086;2;Öl auf Terminalversatz;1220,0
+fehler_oel_2087;2087;2;Öl auf Terminalversatz;0,0
+fehler_oel_2088;2088;2;Öl auf Terminalversatz;225,0
+fehler_oel_2089;2089;2;Öl auf Terminalversatz;1070,0
+fehler_oel_2090;2090;2;Öl auf Terminalversatz;0,0
+fehler_oel_2091;2091;2;Öl auf Terminalversatz;222,0
+fehler_oel_2092;2092;2;Öl auf Terminalversatz;0,0
+fehler_oel_2093;2093;2;Öl auf Terminalversatz;505,0
+fehler_oel_2094;2094;2;Öl auf Terminalversatz;0,0
+fehler_oel_2095;2095;2;Öl auf Terminalversatz;312,0
+fehler_oel_2096;2096;2;Öl auf Terminalversatz;0,0
+fehler_oel_2097;2097;2;Öl auf Terminalversatz;0,0
+fehler_oel_2098;2098;2;Öl auf Terminalversatz;55,2
+fehler_oel_2099;2099;2;Öl auf Terminalversatz;0,0
+fehler_oel_2100;2100;2;Öl auf Terminalversatz;0,0
+fehler_oel_2101;2101;2;Öl auf Terminalversatz;0,0
+fehler_oel_2102;2102;2;Öl auf Terminalversatz;0,0
+fehler_oel_2103;2103;2;Öl auf Terminalversatz;0,0
+fehler_oel_2104;2104;2;Öl auf Terminalversatz;0,0
+fehler_oel_2105;2105;2;Öl auf Terminalversatz;0,0
+fehler_oel_2106;2106;2;Öl auf Terminalversatz;879,0
+fehler_oel_2107;2107;2;Öl auf Terminalversatz;0,0
+fehler_leitungsversatz_2510;2510;3;Leitungsversatz;2584,81518554688
+fehler_leitungsversatz_2511;2511;3;Leitungsversatz;2777,15551757813
+fehler_leitungsversatz_2512;2512;3;Leitungsversatz;2506,76000976563
+fehler_leitungsversatz_2513;2513;3;Leitungsversatz;2612,61376953125
+fehler_leitungsversatz_2514;2514;3;Leitungsversatz;2645,82983398438
+fehler_leitungsversatz_2515;2515;3;Leitungsversatz;2733,13159179688
+fehler_leitungsversatz_2516;2516;3;Leitungsversatz;2666,10498046875
+fehler_leitungsversatz_2517;2517;3;Leitungsversatz;2730,40356445313
+fehler_leitungsversatz_2518;2518;3;Leitungsversatz;2556,234375
+fehler_leitungsversatz_2519;2519;3;Leitungsversatz;2695,21508789063
+fehler_leitungsversatz_2520;2520;3;Leitungsversatz;2648,31518554688
+fehler_leitungsversatz_2521;2521;3;Leitungsversatz;2749,08422851563
+fehler_leitungsversatz_2522;2522;3;Leitungsversatz;2704,7783203125
+fehler_leitungsversatz_2523;2523;3;Leitungsversatz;2751,58422851563
+fehler_leitungsversatz_2524;2524;3;Leitungsversatz;2693,31396484375
+fehler_leitungsversatz_2525;2525;3;Leitungsversatz;2860,15307617188
+fehler_leitungsversatz_2526;2526;3;Leitungsversatz;2667,47265625
+fehler_leitungsversatz_2527;2527;3;Leitungsversatz;2723,82543945313
+fehler_leitungsversatz_2528;2528;3;Leitungsversatz;2679,97387695313
+fehler_leitungsversatz_2529;2529;3;Leitungsversatz;2727,72192382813
+fehler_leitungsversatz_2530;2530;3;Leitungsversatz;2641,28198242188
+fehler_leitungsversatz_2531;2531;3;Leitungsversatz;2767,24975585938
+fehler_leitungsversatz_2532;2532;3;Leitungsversatz;2742,67822265625
+fehler_leitungsversatz_2533;2533;3;Leitungsversatz;2627,212890625
+fehler_leitungsversatz_2534;2534;3;Leitungsversatz;2522,12841796875
+fehler_leitungsversatz_2535;2535;3;Leitungsversatz;2738,701171875
+fehler_leitungsversatz_2536;2536;3;Leitungsversatz;2696,55615234375
+fehler_leitungsversatz_2537;2537;3;Leitungsversatz;2680,64086914063
+fehler_leitungsversatz_2538;2538;3;Leitungsversatz;2685,69067382813
+fehler_leitungsversatz_2539;2539;3;Leitungsversatz;2729,60620117188
+fehler_leitungsversatz_2540;2540;3;Leitungsversatz;2775,30249023438
+fehler_leitungsversatz_2541;2541;3;Leitungsversatz;2525,22314453125
+fehler_leitungsversatz_2542;2542;3;Leitungsversatz;2641,59716796875
+fehler_leitungsversatz_2543;2543;3;Leitungsversatz;2645,99975585938
+fehler_leitungsversatz_2544;2544;3;Leitungsversatz;2670,67895507813
+fehler_leitungsversatz_2545;2545;3;Leitungsversatz;2659,64916992188
+fehler_leitungsversatz_2546;2546;3;Leitungsversatz;2715,08618164063
+fehler_leitungsversatz_2547;2547;3;Leitungsversatz;2780,89306640625
+fehler_leitungsversatz_2548;2548;3;Leitungsversatz;2762,0458984375
+fehler_leitungsversatz_2549;2549;3;Leitungsversatz;2856,765625
+fehler_leitungsversatz_2550;2550;3;Leitungsversatz;2371,1201171875
+fehler_leitungsversatz_2551;2551;3;Leitungsversatz;2367,42553710938
+fehler_leitungsversatz_2552;2552;3;Leitungsversatz;2656,40283203125
+fehler_leitungsversatz_2553;2553;3;Leitungsversatz;2745,66821289063
+fehler_leitungsversatz_2554;2554;3;Leitungsversatz;2780,71630859375
+fehler_leitungsversatz_2555;2555;3;Leitungsversatz;2783,59008789063
+fehler_leitungsversatz_2556;2556;3;Leitungsversatz;2762,29711914063
+fehler_leitungsversatz_2557;2557;3;Leitungsversatz;2609,81420898438
+fehler_leitungsversatz_2558;2558;3;Leitungsversatz;2678,337890625
+fehler_leitungsversatz_2559;2559;3;Leitungsversatz;2741,84838867188
+fehler_leitungsversatz_2560;2560;3;Leitungsversatz;2301,904296875
+fehler_leitungsversatz_2561;2561;3;Leitungsversatz;2628,96557617188
+fehler_leitungsversatz_2562;2562;3;Leitungsversatz;2555,208984375
+fehler_leitungsversatz_2563;2563;3;Leitungsversatz;2708,12133789063
+fehler_leitungsversatz_2564;2564;3;Leitungsversatz;2534,98120117188
+fehler_leitungsversatz_2565;2565;3;Leitungsversatz;2636,68798828125
+fehler_leitungsversatz_2566;2566;3;Leitungsversatz;2680,71948242188
+fehler_leitungsversatz_2567;2567;3;Leitungsversatz;2622,42895507813
+fehler_leitungsversatz_2568;2568;3;Leitungsversatz;2631,42504882813
+fehler_leitungsversatz_2569;2569;3;Leitungsversatz;2659,15185546875
+fehler_leitungsversatz_2570;2570;3;Leitungsversatz;2383,41943359375
+fehler_leitungsversatz_2571;2571;3;Leitungsversatz;2540,56494140625
+fehler_leitungsversatz_2572;2572;3;Leitungsversatz;2532,068359375
+fehler_leitungsversatz_2573;2573;3;Leitungsversatz;2621,98779296875
+fehler_leitungsversatz_2574;2574;3;Leitungsversatz;2598,69189453125
+fehler_leitungsversatz_2575;2575;3;Leitungsversatz;2761,48779296875
+fehler_leitungsversatz_2576;2576;3;Leitungsversatz;2627,63330078125
+fehler_leitungsversatz_2577;2577;3;Leitungsversatz;2470,248046875
+fehler_leitungsversatz_2578;2578;3;Leitungsversatz;2631,74462890625
+fehler_leitungsversatz_2579;2579;3;Leitungsversatz;2525,79663085938
+fehler_leitungsversatz_2580;2580;3;Leitungsversatz;2638,62646484375
+fehler_leitungsversatz_2581;2581;3;Leitungsversatz;2584,41943359375
+fehler_leitungsversatz_2582;2582;3;Leitungsversatz;2532,56640625
+fehler_leitungsversatz_2583;2583;3;Leitungsversatz;2578,33959960938
+fehler_leitungsversatz_2584;2584;3;Leitungsversatz;2499,162109375
+fehler_leitungsversatz_2585;2585;3;Leitungsversatz;2523,56396484375
+fehler_leitungsversatz_2586;2586;3;Leitungsversatz;2637,84985351563
+fehler_leitungsversatz_2587;2587;3;Leitungsversatz;2713,89990234375
+fehler_leitungsversatz_2588;2588;3;Leitungsversatz;2461,232421875
+fehler_leitungsversatz_2589;2589;3;Leitungsversatz;2714,8154296875
+fehler_leitungsversatz_2590;2590;3;Leitungsversatz;2357,28149414063
+fehler_leitungsversatz_2591;2591;3;Leitungsversatz;2735,65161132813
+fehler_leitungsversatz_2592;2592;3;Leitungsversatz;2411,29931640625
+fehler_leitungsversatz_2593;2593;3;Leitungsversatz;2568,87841796875
+fehler_leitungsversatz_2594;2594;3;Leitungsversatz;2560,32177734375
+fehler_leitungsversatz_2595;2595;3;Leitungsversatz;2524,69580078125
+fehler_leitungsversatz_2596;2596;3;Leitungsversatz;2610,4716796875
+fehler_leitungsversatz_2597;2597;3;Leitungsversatz;2498,5556640625
+fehler_leitungsversatz_2598;2598;3;Leitungsversatz;2569,935546875
+fehler_leitungsversatz_2599;2599;3;Leitungsversatz;2683,22290039063
+fehler_leitungsversatz_2600;2600;3;Leitungsversatz;2599,03393554688
+fehler_leitungsversatz_2601;2601;3;Leitungsversatz;2561,35327148438
+fehler_leitungsversatz_2602;2602;3;Leitungsversatz;2203,89404296875
+fehler_leitungsversatz_2603;2603;3;Leitungsversatz;2528,72509765625
+fehler_leitungsversatz_2604;2604;3;Leitungsversatz;2652,19262695313
+fehler_leitungsversatz_2605;2605;3;Leitungsversatz;2535,88647460938
+fehler_leitungsversatz_2606;2606;3;Leitungsversatz;2480,42700195313
+fehler_leitungsversatz_2607;2607;3;Leitungsversatz;2570,65747070313
+fehler_leitungsversatz_2608;2608;3;Leitungsversatz;2580,2265625
+fehler_leitungsversatz_2609;2609;3;Leitungsversatz;2686,91259765625
+fehler_terminversatz_2410;2410;4;Terminalversatz;2207,85107421875
+fehler_terminversatz_2411;2411;4;Terminalversatz;2220,95361328125
+fehler_terminversatz_2412;2412;4;Terminalversatz;2150,16015625
+fehler_terminversatz_2413;2413;4;Terminalversatz;1982,07141113281
+fehler_terminversatz_2414;2414;4;Terminalversatz;2124,84497070313
+fehler_terminversatz_2415;2415;4;Terminalversatz;1453,39392089844
+fehler_terminversatz_2416;2416;4;Terminalversatz;1980,08862304688
+fehler_terminversatz_2417;2417;4;Terminalversatz;1638,39282226563
+fehler_terminversatz_2418;2418;4;Terminalversatz;1694,1298828125
+fehler_terminversatz_2419;2419;4;Terminalversatz;1987,52221679688
+fehler_terminversatz_2420;2420;4;Terminalversatz;2219,677734375
+fehler_terminversatz_2421;2421;4;Terminalversatz;2162,01025390625
+fehler_terminversatz_2422;2422;4;Terminalversatz;2009,20129394531
+fehler_terminversatz_2423;2423;4;Terminalversatz;1763,60437011719
+fehler_terminversatz_2424;2424;4;Terminalversatz;2247,05493164063
+fehler_terminversatz_2425;2425;4;Terminalversatz;2132,40869140625
+fehler_terminversatz_2426;2426;4;Terminalversatz;2246,11450195313
+fehler_terminversatz_2427;2427;4;Terminalversatz;2120,87451171875
+fehler_terminversatz_2428;2428;4;Terminalversatz;1743,111328125
+fehler_terminversatz_2429;2429;4;Terminalversatz;2219,4873046875
+fehler_terminversatz_2430;2430;4;Terminalversatz;2208,38696289063
+fehler_terminversatz_2431;2431;4;Terminalversatz;1935,83288574219
+fehler_terminversatz_2432;2432;4;Terminalversatz;2259,33081054688
+fehler_terminversatz_2433;2433;4;Terminalversatz;2170,9658203125
+fehler_terminversatz_2434;2434;4;Terminalversatz;2078,36303710938
+fehler_terminversatz_2435;2435;4;Terminalversatz;2259,9345703125
+fehler_terminversatz_2436;2436;4;Terminalversatz;2130,12744140625
+fehler_terminversatz_2437;2437;4;Terminalversatz;2247,2001953125
+fehler_terminversatz_2438;2438;4;Terminalversatz;2111,48950195313
+fehler_terminversatz_2439;2439;4;Terminalversatz;2161,56127929688
+fehler_terminversatz_2440;2440;4;Terminalversatz;2226,95727539063
+fehler_terminversatz_2441;2441;4;Terminalversatz;2156,11669921875
+fehler_terminversatz_2442;2442;4;Terminalversatz;2167,02807617188
+fehler_terminversatz_2443;2443;4;Terminalversatz;2118,23461914063
+fehler_terminversatz_2444;2444;4;Terminalversatz;2236,48608398438
+fehler_terminversatz_2445;2445;4;Terminalversatz;2276,50122070313
+fehler_terminversatz_2446;2446;4;Terminalversatz;1884,91479492188
+fehler_terminversatz_2447;2447;4;Terminalversatz;1943,3935546875
+fehler_terminversatz_2448;2448;4;Terminalversatz;2177,2998046875
+fehler_terminversatz_2449;2449;4;Terminalversatz;2219,9365234375
+fehler_terminversatz_2450;2450;4;Terminalversatz;2309,77880859375
+fehler_terminversatz_2451;2451;4;Terminalversatz;1972,78198242188
+fehler_terminversatz_2452;2452;4;Terminalversatz;2265,94116210938
+fehler_terminversatz_2453;2453;4;Terminalversatz;2205,927734375
+fehler_terminversatz_2454;2454;4;Terminalversatz;2239,1689453125
+fehler_terminversatz_2455;2455;4;Terminalversatz;1741,16223144531
+fehler_terminversatz_2456;2456;4;Terminalversatz;1688,8095703125
+fehler_terminversatz_2457;2457;4;Terminalversatz;1431,412109375
+fehler_terminversatz_2458;2458;4;Terminalversatz;1597,83251953125
+fehler_terminversatz_2459;2459;4;Terminalversatz;1729,06030273438
+fehler_terminversatz_2460;2460;4;Terminalversatz;2203,3837890625
+fehler_terminversatz_2461;2461;4;Terminalversatz;1806,75720214844
+fehler_terminversatz_2462;2462;4;Terminalversatz;2029,82165527344
+fehler_terminversatz_2463;2463;4;Terminalversatz;2233,3056640625
+fehler_terminversatz_2464;2464;4;Terminalversatz;2140,16381835938
+fehler_terminversatz_2465;2465;4;Terminalversatz;2293,50561523438
+fehler_terminversatz_2466;2466;4;Terminalversatz;2252,67456054688
+fehler_terminversatz_2467;2467;4;Terminalversatz;2310,50317382813
+fehler_terminversatz_2468;2468;4;Terminalversatz;2209,49047851563
+fehler_terminversatz_2469;2469;4;Terminalversatz;2141,1728515625
+fehler_terminversatz_2470;2470;4;Terminalversatz;2322,19604492188
+fehler_terminversatz_2471;2471;4;Terminalversatz;1604,51000976563
+fehler_terminversatz_2472;2472;4;Terminalversatz;2261,67993164063
+fehler_terminversatz_2473;2473;4;Terminalversatz;2001,42895507813
+fehler_terminversatz_2474;2474;4;Terminalversatz;1638,50817871094
+fehler_terminversatz_2475;2475;4;Terminalversatz;2219,77001953125
+fehler_terminversatz_2476;2476;4;Terminalversatz;2229,2568359375
+fehler_terminversatz_2477;2477;4;Terminalversatz;2043,27770996094
+fehler_terminversatz_2478;2478;4;Terminalversatz;1856,47814941406
+fehler_terminversatz_2479;2479;4;Terminalversatz;1207,56677246094
+fehler_terminversatz_2480;2480;4;Terminalversatz;2252,66772460938
+fehler_terminversatz_2481;2481;4;Terminalversatz;2047,27307128906
+fehler_terminversatz_2482;2482;4;Terminalversatz;2008,32702636719
+fehler_terminversatz_2483;2483;4;Terminalversatz;2020,62036132813
+fehler_terminversatz_2484;2484;4;Terminalversatz;1526,15588378906
+fehler_terminversatz_2485;2485;4;Terminalversatz;2358,2099609375
+fehler_terminversatz_2486;2486;4;Terminalversatz;2246,48388671875
+fehler_terminversatz_2487;2487;4;Terminalversatz;2055,01904296875
+fehler_terminversatz_2488;2488;4;Terminalversatz;2062,25
+fehler_terminversatz_2489;2489;4;Terminalversatz;2150,39331054688
+fehler_terminversatz_2490;2490;4;Terminalversatz;2141,37353515625
+fehler_terminversatz_2491;2491;4;Terminalversatz;2372,9208984375
+fehler_terminversatz_2492;2492;4;Terminalversatz;2094,56494140625
+fehler_terminversatz_2493;2493;4;Terminalversatz;2031,76745605469
+fehler_terminversatz_2494;2494;4;Terminalversatz;2086,85034179688
+fehler_terminversatz_2495;2495;4;Terminalversatz;1387,5556640625
+fehler_terminversatz_2496;2496;4;Terminalversatz;1750,35412597656
+fehler_terminversatz_2497;2497;4;Terminalversatz;1768,345703125
+fehler_terminversatz_2498;2498;4;Terminalversatz;2223,0947265625
+fehler_terminversatz_2499;2499;4;Terminalversatz;2248,2314453125
+fehler_terminversatz_2500;2500;4;Terminalversatz;2134,45385742188
+fehler_terminversatz_2501;2501;4;Terminalversatz;2093,9033203125
+fehler_terminversatz_2502;2502;4;Terminalversatz;2186,09326171875
+fehler_terminversatz_2503;2503;4;Terminalversatz;2174,87524414063
+fehler_terminversatz_2504;2504;4;Terminalversatz;2017,48132324219
+fehler_terminversatz_2505;2505;4;Terminalversatz;1479,52282714844
+fehler_terminversatz_2506;2506;4;Terminalversatz;2085,11791992188
+fehler_terminversatz_2507;2507;4;Terminalversatz;2237,23120117188
+fehler_terminversatz_2508;2508;4;Terminalversatz;2406,46948242188
+fehler_terminversatz_2509;2509;4;Terminalversatz;1606,88977050781

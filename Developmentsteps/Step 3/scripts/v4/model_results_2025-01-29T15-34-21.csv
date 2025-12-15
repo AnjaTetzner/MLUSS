@@ -1,0 +1,6 @@
+Model,Best Params,Overall MAE
+Ridge,{'alpha': np.float64(0.0020235896477251557)},-224.37695568892678
+RidgeCV,{'cv': 5},-227.47146407935816
+Lasso,{'alpha': np.float64(0.028117686979742307)},-224.37075762640302
+ElasticNet,"{'l1_ratio': np.float64(1.0), 'alpha': np.float64(0.05689866029018299)}",-224.37276404054523
+SVR,"{'gamma': 'scale', 'epsilon': np.float64(0.001623776739188721), 'degree': np.int64(3), 'C': np.float64(12.067926406393289)}",-271.17378272310486

@@ -1,0 +1,3 @@
+git init
+git remote add origin git@gitlab.hrz.tu-chemnitz.de:mord-at-tu-chemnitz.de/ml_schweissen.git
+git pull origin main

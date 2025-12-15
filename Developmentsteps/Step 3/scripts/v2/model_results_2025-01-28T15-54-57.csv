@@ -1,0 +1,9 @@
+Model,Best Params,Overall MAE
+LinearRegression,none,150.98136925703616
+Ridge,none,150.73270250171518
+Lasso,none,153.9188857661624
+ElasticNet,none,150.51441856814324
+DecisionTreeRegressor,none,112.92660628330759
+GradientBoosting,none,82.55055407120436
+KNeighborsRegressor,none,142.88996804555242
+MLPRegressor,none,9111.165939859122

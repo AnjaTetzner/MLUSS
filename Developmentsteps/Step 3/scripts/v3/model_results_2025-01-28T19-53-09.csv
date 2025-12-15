@@ -1,0 +1,11 @@
+Model;Best Params;Overall MAE
+LinearRegression;{};-271,5264590782723
+Ridge;{'alpha': np,float64(0,0001)};-271,5265999756257
+Lasso;{'alpha': np,float64(0,0001)};-271,5264963968252
+ElasticNet;"{'l1_ratio': np,float64(1,0); 'alpha': np,float64(0,0013257113655901094)}";-271,5269538144962
+DecisionTreeRegressor;"{'min_samples_split': np,int64(6); 'min_samples_leaf': np,int64(8); 'max_depth': np,int64(15)}";-114,82627004591731
+RandomForest;"{'n_estimators': np,int64(75); 'min_samples_split': np,int64(6); 'min_samples_leaf': np,int64(1); 'max_features': None; 'max_depth': np,int64(8)}";-99,99926346292742
+GradientBoosting;"{'n_estimators': np,int64(125); 'min_samples_split': np,int64(9); 'min_samples_leaf': np,int64(4); 'max_depth': np,int64(4); 'learning_rate': np,float64(0,05455594781168517)}";-102,01772917490963
+SVR;"{'gamma': 'scale'; 'epsilon': np,float64(10,0); 'degree': np,int64(3); 'C': np,float64(62,50551925273976)}";-290,10231821120385
+KNeighborsRegressor;"{'weights': 'distance'; 'p': 1; 'n_neighbors': np,int64(8)}";-137,43968169303386
+MLPRegressor;"{'learning_rate_init': np,float64(0,00029763514416313193); 'hidden_layer_sizes': (50; 50); 'alpha': np,float64(0,00017575106248547912); 'activation': 'relu'}";-181,51129847815292

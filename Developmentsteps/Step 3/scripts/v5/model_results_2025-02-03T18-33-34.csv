@@ -1,0 +1,2 @@
+Model,Best Params,Overall MAE
+SVR,"{'gamma': 'scale', 'epsilon': np.float64(0.018329807108324356), 'degree': np.int64(4), 'C': np.float64(24.420530945486497)}",95.80559999708755
