@@ -7,4 +7,4 @@ The folder “Artefact” contains the final result, which includes a summary of
 The folder “GUI” contains a prototypical implementation of a graphical user interface based on the data from the research project.
 
 
-If you have any questions: pleas contact anja.tetzner@wiwi.tu-chemnitz.de od andreas.gester@mb.tu-chemnitz.de
+If you have any questions pleas contact anja.tetzner@wiwi.tu-chemnitz.de or andreas.gester@mb.tu-chemnitz.de
